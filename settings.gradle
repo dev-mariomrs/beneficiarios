@@ -1,2 +1,5 @@
 rootProject.name = 'cadastro-beneficiarios'
+include 'domain'
+include 'application'
+include 'infrastructure'
 

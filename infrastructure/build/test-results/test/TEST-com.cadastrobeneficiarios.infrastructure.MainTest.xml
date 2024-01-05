@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.cadastrobeneficiarios.infrastructure.MainTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-01-05T14:55:52" hostname="MacBook-Pro-de-wesley.local" time="0.047">
+  <properties/>
+  <testcase name="testMain()" classname="com.cadastrobeneficiarios.infrastructure.MainTest" time="0.047"/>
+  <system-out><![CDATA[Hello world!
+com.cadastrobeneficiarios.domain.Beneficiary@1bd39d3c
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
